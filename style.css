@@ -1,0 +1,110 @@
+#timeline1
+{
+	margin-top:200px;
+}
+#post
+{
+	position:absolute;
+	bottom:0;
+	left:39%;
+	height:250px;
+	border-radius:25%;
+}
+#milner-era
+{
+	position:absolute;
+	bottom:0;
+	left:20%;
+	height:250px;
+	border-radius:25%;
+}
+#header
+{
+	position:absolute;
+	top:4%;
+	left:2%;
+	font-size:50px;
+}
+#descrip
+{
+	position:absolute;
+	top:13%;
+	left:2%;
+	font-size:20px;
+}
+#present
+{
+	position:absolute;
+	bottom:0;
+	left:59%;
+	height:250px;
+	border-radius:25%;
+}
+#book-collecting
+{
+	position:absolute;
+	bottom:0;
+	left:80%;
+	height:250px;
+	border-radius:25%;
+}
+#establishment
+{
+	position:absolute;
+	bottom:0;
+	left:0;
+	height:250px;
+	border-radius:25%;
+}
+#present-title
+{
+	left:58%;
+}
+#book-collecting-title
+{
+	left:80%;
+}
+#est-title
+{
+	left:1%;
+}
+#milner-title
+{
+	left:20%;
+}
+#post-title
+{
+	left:40%;
+	font-size:35px;
+}
+.title
+{
+	bottom:50px;
+	visibility:"hidden";
+	position:absolute;
+	font-size:20px;
+	background-color:#696;
+}
+.pic
+{
+	padding:30px;
+	cursor:pointer;
+}
+body
+{
+	background-color:#f2f2f2;
+}
+#article
+{
+	cursor:pointer;
+	position: absolute;
+	top:0px;
+	display:none;
+	visibility:hidden;
+	background-color:#f2f2f2;
+	padding:30px;
+	margin:10px;
+	font-size:14px;
+	line-height: 200%;
+	text-align:left;
+}
